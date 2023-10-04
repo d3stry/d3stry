@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @d3stry
 - 🌱 I’m currently learning js
-- 📫 How to reach me hezcstarl@gmail.com
+- 📫 How to reach me hezcstark@gmail.com
